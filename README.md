@@ -13,6 +13,8 @@ Interested in system architecture, data engineering, cloud & serverless and gene
 
 Aspiring and learning to become a solutions architect.
 
+You can also check my [LinkedIn profile](https://www.linkedin.com/in/karol-p%C5%82atkowski-914626132/).
+
 <!--
 **spoohie/spoohie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
