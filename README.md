@@ -3,11 +3,11 @@
 Hi, I'm Karol. I'm a Software Engineer with 6+ years of experience. Currently working with Python :snake: & AWS :cloud:.
 
 Worked as an engineer developing:
-• LTE/5G telecom testing tool
-• toy design system for a Danish company
-• gaming/sports betting recommendation service
-• video processing&clipping pipeline 
-• GenAI RAG chatbot
+* LTE/5G telecom testing tool
+* toy design system for a Danish company
+* gaming/sports betting recommendation service
+* video processing&clipping pipeline 
+* GenAI RAG chatbot
 
 Interested in system architecture, data engineering, cloud & serverless and generative AI.
 
