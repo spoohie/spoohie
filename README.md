@@ -1,6 +1,6 @@
-## 👋 Whoami
+## Whoami
 
-Hi, I'm Karol. I'm a Software Engineer with 6+ years of experience. Currently working with Python :snake: & AWS :cloud:.
+👋 Hi, I'm Karol. I'm a Software Engineer with 6+ years of experience. Currently working with Python :snake: & AWS :cloud:.
 
 Worked as an engineer developing:
 * LTE/5G telecom testing tool
